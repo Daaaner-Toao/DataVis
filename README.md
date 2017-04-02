@@ -5,4 +5,6 @@ https://daaaner-toao.github.io/DataVis/
 
 ## Course Participants level of DataVis Knowledge on SignUp
 
-<iframe src="https://public.tableau.com/views/TrinityXT005xDataVisualization/Sheet1?:showVizHome=no&:embed=true" width="1000" height="955"></iframe>
+<iframe src="https://public.tableau.com/views/TrinityXT005xDataVisualization/AvgSkillonSignUp?:showVizHome=no&:embed=true" width="1000" height="955"></iframe>
+
+
