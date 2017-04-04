@@ -7,7 +7,7 @@ https://daaaner-toao.github.io/DataVis/
 ### Section 3
 
 leaflet-map-simple -> there you go:
- <iframe src="https://daaaner-toao.github.io/leaflet-map-simple/" width="90%" height="350"></iframe>
+ <iframe src="https://daaaner-toao.github.io/leaflet-map-simple" width="90%" height="350"></iframe>
 
 highcharts-scatter -> there you go:
  <iframe src="https://daaaner-toao.github.io/highcharts-scatter-csv" width="90%" height="350"></iframe>
